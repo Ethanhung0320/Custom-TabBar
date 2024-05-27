@@ -13,6 +13,10 @@
 		AA3F85CE2C041F160011F923 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AA3F85CD2C041F160011F923 /* Base */; };
 		AA3F85D02C041F180011F923 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA3F85CF2C041F180011F923 /* Assets.xcassets */; };
 		AA3F85D32C041F180011F923 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AA3F85D22C041F180011F923 /* Base */; };
+		AA3F85DB2C04625E0011F923 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3F85DA2C04625E0011F923 /* FirstViewController.swift */; };
+		AA3F85DD2C0462750011F923 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3F85DC2C0462750011F923 /* SecondViewController.swift */; };
+		AA3F85DF2C0462830011F923 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3F85DE2C0462830011F923 /* ThirdViewController.swift */; };
+		AA3F85E12C0462970011F923 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3F85E02C0462970011F923 /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		AA3F85CF2C041F180011F923 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA3F85D22C041F180011F923 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA3F85D42C041F180011F923 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA3F85DA2C04625E0011F923 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		AA3F85DC2C0462750011F923 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		AA3F85DE2C0462830011F923 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		AA3F85E02C0462970011F923 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +68,10 @@
 				AA3F85C82C041F160011F923 /* SceneDelegate.swift */,
 				AA3F85CA2C041F160011F923 /* ViewController.swift */,
 				AA3F85CC2C041F160011F923 /* Main.storyboard */,
+				AA3F85DA2C04625E0011F923 /* FirstViewController.swift */,
+				AA3F85DC2C0462750011F923 /* SecondViewController.swift */,
+				AA3F85DE2C0462830011F923 /* ThirdViewController.swift */,
+				AA3F85E02C0462970011F923 /* FourthViewController.swift */,
 				AA3F85CF2C041F180011F923 /* Assets.xcassets */,
 				AA3F85D12C041F180011F923 /* LaunchScreen.storyboard */,
 				AA3F85D42C041F180011F923 /* Info.plist */,
@@ -141,6 +153,10 @@
 				AA3F85CB2C041F160011F923 /* ViewController.swift in Sources */,
 				AA3F85C72C041F160011F923 /* AppDelegate.swift in Sources */,
 				AA3F85C92C041F160011F923 /* SceneDelegate.swift in Sources */,
+				AA3F85E12C0462970011F923 /* FourthViewController.swift in Sources */,
+				AA3F85DD2C0462750011F923 /* SecondViewController.swift in Sources */,
+				AA3F85DF2C0462830011F923 /* ThirdViewController.swift in Sources */,
+				AA3F85DB2C04625E0011F923 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
